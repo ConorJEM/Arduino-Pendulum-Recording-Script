@@ -7,7 +7,9 @@ The timestep of the data collection is large, so fitting a decaying oscillation 
 
 See below the motion of the pendulum; A damped oscillation
 ![PendulumGraph2](PendulumGraph2.png)
+
 After finding the peaks and taking the magnitude of them, we can fit for the decay of the motion.
+
 ![PendulumGraph](PendulumGraph.png)
 
 
